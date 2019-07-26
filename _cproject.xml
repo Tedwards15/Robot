@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="c30.toolchain.default.1006726914">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="c30.toolchain.default.1006726914" moduleId="org.eclipse.cdt.core.settings" name="Windows">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactExtension="hex" artifactName="${ProjName}" buildProperties="" description="" id="c30.toolchain.default.1006726914" name="Windows" parent="c30.toolchain.default">
+					<folderInfo id="c30.toolchain.default.1006726914." name="/" resourcePath="">
+						<toolChain id="c30.toolchain.default.1018656324" name="Windows" superClass="c30.toolchain.default">
+							<targetPlatform id="c30.toolchain.default.1006726914..399097993" name=""/>
+							<builder buildPath="${workspace_loc:/Project9}/Windows" id="c30.toolchain.make.564612934" managedBuildOn="true" name="MinGW Make.Windows" superClass="c30.toolchain.make"/>
+							<tool id="c30.toolchain.compiler.1442287554" name="C30 Compiler" superClass="c30.toolchain.compiler"/>
+							<tool id="c30.toolchain.linker.1847905127" name="C30 Link Step" superClass="c30.toolchain.linker"/>
+							<tool id="c30.toolchain.bin2hex.211013115" name="Hex Converter" superClass="c30.toolchain.bin2hex"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="Project9.c30.toolchain.c30.909062651" name="OC Fundamentals Project" projectType="c30.toolchain.c30"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+</cproject>
